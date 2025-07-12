@@ -1,7 +1,7 @@
 
 # 💸 Expense Tracker & Splitter (Hackathon Project)
 
-![Project Thumbnail](./Dashboard.png)
+![Project Thumbnail](./ScreenShots/Dashboard.png)
 
 A modern and responsive web app to **track expenses** and **split bills** among multiple users — built with **React + TypeScript + Vite** during the **EDZIAL – 2K25 Hackathon** at **SIMATS Engineering College**.
 
